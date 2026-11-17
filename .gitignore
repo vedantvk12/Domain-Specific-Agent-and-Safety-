@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.mplcache/
+securecode-ai/.mplcache/
+
+# Caches and virtual environments
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Intermediate PDF inspection artifacts
+page_inspect/
+pdf_inspection_pages/
+pdf_inspection_pages_v2/
+page_*.png
+word_converted.pdf
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
